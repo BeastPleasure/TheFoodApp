@@ -4,12 +4,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Description
 
-This project is the clone of a food delivery service app, similar to UberEats, etc.
-* Front End Only
-* Tailwind CSS
-* Javascript
-* HTML
-* API (somewhat)
+This project is a clone of a food delivery service app, similar to UberEats, etc
+
+* Front End Only:
+
+- Tailwind CSS
+- Javascript
+- HTML
+- API (somewhat)
+
 * Some functionality
 
 ## Available Scripts
